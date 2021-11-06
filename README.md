@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/IT-Berater/IT-Berater/blob/main/github-metrics.svg)
+
 <!--
 **IT-Berater/IT-Berater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
